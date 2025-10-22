@@ -23,7 +23,7 @@ The following Open Grap tags will be set:
   * `og:url` - public URL of the page
   * `og:image` - absolut URL of the image for the Open Graph thumbnail
   * `og:image:type` - MIME-Type of the given image
-  * `og:image:width`- with of the given image
+  * `og:image:width`- width of the given image
   * `og:image:height` - height of the given image
 
 ### How to set an image
